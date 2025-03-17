@@ -1,16 +1,25 @@
-# flutter_application_1
+# E-Commerce App in Flutter
 
-A new Flutter project.
+This is a **Flutter-based E-Commerce App** with separate **User and Admin Dashboards**, built using **Firebase** and **Firestore** for seamless authentication, real-time database management, and secure storage.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+### 🛍️ User Panel
+- **User Authentication** (Sign Up, Login, Logout)
+- **Product Browsing & Search**
+- **Category-Based Filtering**
+- **Cart Management**
+- **Secure Checkout with Payment Integration**
+- **Order Tracking**
+- **User Profile & Order History**
 
-A few resources to get you started if this is your first Flutter project:
+### 🛠️ Admin Panel
+- **Admin Authentication**
+- **Product Management (Add, Edit, Delete)**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔥 Tech Stack
+- **Flutter** (Frontend UI)
+- **Firebase Authentication** (User & Admin Login)
+- **Cloud Firestore** (Database Management)
+
